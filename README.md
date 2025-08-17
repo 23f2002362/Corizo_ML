@@ -2,7 +2,7 @@
 
 A comprehensive machine learning project repository containing two major projects and supporting materials from the Corizo AI learning program.
 
-## 🎯 Projects
+##  Projects
 
 ### Project 1: Cardiovascular Disease Prediction
 - **Objective**: Predict cardiovascular disease using patient medical data
@@ -39,7 +39,7 @@ A comprehensive machine learning project repository containing two major project
 └── cardio_train.csv            # Main cardiovascular dataset
 ```
 
-## 🧠 Key Learning Areas
+##  Key Learning Areas
 
 ### Machine Learning Concepts
 - **Neural Networks & Deep Learning**
@@ -70,7 +70,7 @@ A comprehensive machine learning project repository containing two major project
 - **Natural Language Processing**: Sentiment analysis
 - **Computer Vision**: Handwritten digit recognition (MNIST)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
@@ -96,7 +96,7 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn spacy textblob
    python class/ai_august_13.py
    ```
 
-## 📊 Datasets Overview
+##  Datasets Overview
 
 | Dataset | Records | Features | Task Type |
 |---------|---------|----------|-----------|
@@ -106,7 +106,7 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn spacy textblob
 | Mall Customers | 201 | 4 | Clustering/Segmentation |
 | House Prices | Variable | 3+ | Regression |
 
-## 🏆 Learning Outcomes
+##  Learning Outcomes
 
 - Hands-on experience with real-world datasets
 - Implementation of neural networks from scratch
@@ -115,7 +115,7 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn spacy textblob
 - Model evaluation and performance metrics
 - Integration of multiple ML libraries and tools
 
-## 📚 Class Materials
+##  Class Materials
 
 The `class/` directory contains 13 comprehensive learning sessions covering:
 - Basic Python for ML
@@ -126,7 +126,7 @@ The `class/` directory contains 13 comprehensive learning sessions covering:
 - Sentiment Analysis
 - Computer Vision basics
 
-## 🤝 Contributing
+##  Contributing
 
 This repository represents educational work from the Corizo AI program. Feel free to:
 - Explore the code and datasets
@@ -134,7 +134,7 @@ This repository represents educational work from the Corizo AI program. Feel fre
 - Enhance existing models
 - Add new features or visualizations
 
-## 📄 License
+##  License
 
 Educational project - please respect dataset licensing and attribution requirements.
 
