@@ -18,7 +18,7 @@ A comprehensive machine learning project repository containing two major project
 - **Features**: Audio characteristics, track metadata, popularity metrics
 - **Genres**: Pop, Hip Hop, Dance Pop, Indie Poptimism, Electropop, etc.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── Project 1 - Cardiovascular Disease Prediction/
